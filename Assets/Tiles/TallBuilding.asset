@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: TallBuilding
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: 42bcb5b2cd06041beabf65dfcbaac6fe, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Sprite: {fileID: 21300000, guid: 463f5cb78d0a54b0c9ccc094f0e51d48, type: 3}
+  m_Color: {r: 0, g: 0.23529412, b: 1, a: 1}
   m_Transform:
     e00: 1
     e01: 0
