@@ -2,7 +2,7 @@
 
 ## Purpose
 This repository was uploaded to become more familiar with Unity with respect to 2D-Platformer games. 
-It also allowed me to test the *Git LFS* feature with a large Unity project.
+It also allowed me to test the **Git LFS** feature with a large Unity project.
 
 ## Changes
 Modifications to the tutorial template have been saved in this project. The game was modified to make use of 
